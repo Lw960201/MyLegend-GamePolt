@@ -18,11 +18,10 @@
 
 ### 场景设计
 #### 流程
-![Alt text](image.png)
-
+![Alt text](Image/README/image.png)
 流程上应该是策划搭建关卡白模，也就是用unity的插件probuild大致的搭建一个box场景，然后用不同的颜色区分不同的东西，比如岩石什么颜色，树林什么颜色，水什么颜色
 ，确认下大方向是对的，然后再做细化的内容。
-![Alt text](image-1.png)
+![Alt text](Image/README/image-1.png)
 
 如果没什么思路可以多找相关的参考图，然后提取概括，搞出自己的一套。
 #### 每个区域场景的主色调，以及视觉引导的主体和标志物
